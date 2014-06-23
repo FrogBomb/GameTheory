@@ -1,7 +1,7 @@
 import Tkinter
 import ConwayGames
 from ConwayGames import ConwayGame, StarGame, UpPowerGame
-from math import floor, ceil
+#from math import floor, ceil
 FRAYDEPTH = -.5
 class thermographer:
     def __init__(self):
